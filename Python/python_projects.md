@@ -5,4 +5,4 @@ Python Projects
 
 
 ## Python projects
-[Console apps](./consoleApps/)
+[Console apps](./consoleApps/console_apps.md)
